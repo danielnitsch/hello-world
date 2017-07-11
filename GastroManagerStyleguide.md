@@ -6,6 +6,7 @@ Bold, Regular, Light
 
 26, 22, 18, 16, 14, 10
 
-#Colors
+##Colors
 
 red: #FF364D
+
